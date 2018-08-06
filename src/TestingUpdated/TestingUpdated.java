@@ -9,6 +9,7 @@ public class TestingUpdated {
     public void fnTestGitHubExp(){
 
         System.out.println("Testing Line1");
+        System.out.println("Testing Line2");
         System.out.println("Testing Line3");
     }
 }
